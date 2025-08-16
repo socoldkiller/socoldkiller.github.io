@@ -1,0 +1,14 @@
+.nav {
+    display: flex;
+    align-items: center;
+}
+
+.menu a svg {
+    vertical-align: middle;
+    margin-right: 6px;
+    margin-top: -3px;
+}
+
+.top-link svg {
+    vertical-align: sub;
+}
